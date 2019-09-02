@@ -1,7 +1,9 @@
 # css-selector-game 
 review - refresh your knowledge in css selectors.
 
-![css selector ui](./img/css-selector-game.png)
+<p align="center">
+    <img alt="css selector" style="text-align:center;" src="./img/css-selector-game.png" alt="drawing" width="500"/>
+</p>
 
 ## Technologies
 - Svelte 3.x
