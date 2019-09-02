@@ -30,5 +30,7 @@ Navigate to [localhost:5000](http://localhost:5000).
 ## Acknowledgment
 This repo used this starter: [svelte-typescript-scss-webpack-starter](https://github.com/ritesh404/svelte-typescript-scss-webpack-starter)
 
+Original idea was developed together with [Armando Tapia](https://github.com/Armando115Tapia)
+
 ## Licence
 Luis Reinoso [MIT LICENCE](LICENCE)
