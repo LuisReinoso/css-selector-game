@@ -5,6 +5,8 @@ review - refresh your knowledge in css selectors.
     <img alt="css selector" style="text-align:center;" src="./img/css-selector-game.png" alt="drawing" width="500"/>
 </p>
 
+## [Click here to: play now!](https://luisreinoso.github.io/css-selector-game/)
+
 ## Technologies
 - Svelte 3.x
 - Typescript
