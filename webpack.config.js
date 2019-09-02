@@ -17,7 +17,7 @@ const DEV_PORT = 5000;
 const mode = process.env.NODE_ENV || "development";
 const prod = mode === "production";
 const shouldUseSourceMap = !prod;
-const publicPath = "/";
+const publicPath = "https://luisreinoso.github.io/css-selector-game/";
 
 const postCssLoaderConfig = {
 	loader: "postcss-loader",
